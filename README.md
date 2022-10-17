@@ -2,4 +2,5 @@
 
 * Primeiro Desafio - Análise exploratória com Python e Pandas
 * Desafios de códigos - DIO
-* Terceiro Desafio - Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil
+* Segundo Desafio - Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil
+* Terceiro Desafio - Boas práticas com DynamoDB
