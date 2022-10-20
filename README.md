@@ -7,3 +7,4 @@ O bootcamp Unimed-BH Ciência de Dados é para profissionais que já atuam com c
 * Desafios de códigos - DIO
 * Segundo Desafio - Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil
 * Terceiro Desafio - Boas práticas com DynamoDB
+* Quarto Desafio - Explorando Dados Demográficos com Serviços de Big Data na AWS
